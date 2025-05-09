@@ -23,5 +23,6 @@ wordcloud
 sentence-transformers
 thinc
 shap
+bertopic
 git+https://github.com/Text-Analytics-and-Retrieval/GuidedLDA.git#egg=GuidedLDA
 git+https://github.com/trinker/sentimentpy
